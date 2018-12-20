@@ -1,8 +1,4 @@
-**Imię i nazwisko:** Jakub Pranica **Grupa:** Informatyka - 13i **Przedmiot:**
-Metody Programowania
-
-**Wykładowca:** dr inż. Zbigniew Kokosiński **Semestr:** 2 **Data:** 08-05-2017
-**Algorytm z nawrotami**
+**Problem Plecakowy - Algorytm z nawrotami**
 
 **Temat:** Napisać algorytm znajdujący optymalne upakowanie plecaka dla
 wprowadzonych danych (tj. uzyskanie maksymalnej wartości przedmiotów w plecaku,
